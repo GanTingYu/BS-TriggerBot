@@ -10,3 +10,15 @@ C:\Users\Gan\source\repos\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\Blac
 C:\Users\Gan\source\repos\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotHack.csproj.CoreCompileInputs.cache
 C:\Users\Gan\source\repos\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotTriggerBot.exe
 C:\Users\Gan\source\repos\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotTriggerBot.pdb
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotHack.csproj.ResolveComReference.cache
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\bin\Debug\BlackShotTriggerBot.exe.config
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\bin\Debug\BlackShotTriggerBot.exe
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\bin\Debug\BlackShotTriggerBot.pdb
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotHack.csprojAssemblyReference.cache
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotTriggerBot.Form1.resources
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotTriggerBot.Properties.Resources.resources
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotHack.csproj.GenerateResource.cache
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotHack.csproj.CoreCompileInputs.cache
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotTriggerBot.exe
+C:\Users\ganti\Desktop\BS-TriggerBot-main\BlackShotTriggerBot\BlackShotTriggerBot\obj\Debug\BlackShotTriggerBot.pdb
