@@ -11,4 +11,4 @@ Autoit Download Website (Using "C:\Program Files (x86)\AutoIt3\AutoItX\AutoItX3.
 1) C:\Users\name\Desktop\BS-TriggerBot\BlackShotTriggerBot\BlackShotTriggerBot.sin (Double click open with VS 2019)
 2) Once open, on the VS 2019 right side > Solution Explorer > BlackShotHack > Form1.cs (Double click) > A windows form will be opened (double click on the window form) > Then the code will be shown.
 
-# The Hotkey to turn on/off is set as: "x".
+## The Hotkey to turn on/off is set as: "x".
