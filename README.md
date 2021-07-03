@@ -13,5 +13,5 @@ Autoit Download Website (Using "C:\Program Files (x86)\AutoIt3\AutoItX\AutoItX3.
 
 ### The Hotkey to turn on/off is set as: "x".
 
-<img src="github_images/catGun.gif" width="200">
-Yeah baby Yeah
+<img src="github_images/catGun.gif" width="200"> Yeah Baby Yeah
+
