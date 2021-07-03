@@ -12,3 +12,5 @@ Autoit Download Website (Using "C:\Program Files (x86)\AutoIt3\AutoItX\AutoItX3.
 2) Once open, on the VS 2019 right side > Solution Explorer > BlackShotHack > Form1.cs (Double click) > A windows form will be opened (double click on the window form) > Then the code will be shown.
 
 ### The Hotkey to turn on/off is set as: "x".
+
+<img src="github_images/catGun.gif" width="500">
